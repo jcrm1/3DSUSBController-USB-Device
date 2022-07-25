@@ -1,4 +1,3 @@
-
 void setup() {
   Serial.begin(115200);
   Joystick.useManualSend(true);
