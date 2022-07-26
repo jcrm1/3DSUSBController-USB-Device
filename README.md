@@ -1,5 +1,5 @@
 # 3DSUSBController-USB-Device
-3DS Homebrew to turn your 3DS into a USB game controller (Teensy code)  
+3DS Homebrew to turn your 3DS into a USB game controller or touchsreen/absolute-positioning-mouse (Teensy code)  
 
 Requires [3DSUSBController-Homebrew](https://github.com/jcrm1/3DSUSBController-Homebrew) and [3DSUSBController-Server](https://github.com/jcrm1/3DSUSBController-Server)  
 
